@@ -1172,47 +1172,47 @@ blockquote p {
 }
 @media (min-width: 320px) {
 	.qa-q-item-main {
-		width: 210px;
+		width: 85%;
 	}
 }
 @media (min-width: 360px) {
 	.qa-q-item-main {
-		width: 250px;
+		width: 85%;
 	}
 }
 @media (min-width: 480px) {
 	.qa-q-item-main {
-		width: 364px;
+		width: 85%;
 	}
 }
 @media (min-width: 568px) {
 	.qa-q-item-main {
-		width: 452px;
+		width: 85%;
 	}
 }
 @media (min-width: 600px) {
 	.qa-q-item-main {
-		width: 484px;
+		width: 85%;
 	}
 }
 @media (min-width: 768px) {
 	.qa-q-item-main {
-		width: 652px;
+		width: 85%;
 	}
 }
 @media (min-width: 800px) {
 	.qa-q-item-main {
-		width: 611px;
+		width: 85%;
 	}
 }
 @media (min-width: 980px) {
 	.qa-q-item-main {
-		width: 550px;
+		width: 85%;
 	}
 }
 @media (min-width: 1044px) {
 	.qa-q-item-main {
-		width: 592px;
+		width: 85%;
 	}
 }
 
