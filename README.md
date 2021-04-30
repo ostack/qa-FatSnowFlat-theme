@@ -7,13 +7,13 @@ if the content does not contains picture only content will show in the question 
 
 This theme is not fit for mobile, you can you  qa-FatSnowFlat-theme  for mobile.
 
-##Other change:
+## Other change:
 
 1.stick header when scroll
 
 2.change main area width to percent to support 16:9 screen
 
-##How to use
+## How to use
 
 1.Download this theme
 
