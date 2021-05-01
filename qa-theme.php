@@ -442,7 +442,7 @@ class qa_html_theme extends qa_html_theme_base
 
 		$this->output('<div>');
  		$this->output_split(@$post['views'], 'qa-a-count', 'span', 'span',
-			@$post['views'] ? 'qa-a-count-selected' : (@$post['views'] ? null : 'qa-a-count-zero')); 
+			@$post['views'] ? 'qa-a-count-view' : (@$post['views'] ? null : 'qa-a-count-zero')); 
 	    $this->output('</div>');
 	}
 
